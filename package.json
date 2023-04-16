@@ -1,0 +1,15 @@
+{
+  "name": "saldo",
+  "version": "1.0.0",
+  "description": "botdior",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "joao",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.15.1",
+    "dotenv": "^16.0.3"
+  }
+}
